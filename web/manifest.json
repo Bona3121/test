@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "myapp",
     "short_name": "myapp",
+=======
+    "name": "koalove2",
+    "short_name": "koalove2",
+>>>>>>> be133bf68f124364dea24beaa33cdb4056f45384
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
